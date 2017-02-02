@@ -1,0 +1,115 @@
+/*GENERAL*/
+body { padding-top: 90px;
+}
+hr{
+  width:30%;
+  size:10;
+}
+/*Header*/
+a#entete{
+  color: black;
+  width: 340px;
+  margin-right: 40px;
+}
+a#entete:hover{
+  background-color: white;
+}
+#logo{
+  width: 20%;
+  height: 10%;
+}
+#title{
+  margin-left:40px;
+}
+.nav{
+  background-color: white;
+}
+.brand{
+  margin: 0;
+  margin-top: 5px;
+
+}
+
+#brandH2{
+    font-size: 25px;
+}
+#brandH3{
+    font-size: 20px;
+}
+.nav-header{
+  margin-left: 20px;
+}
+.menu{
+  margin-top: 20px;
+  padding:0;
+}
+.menu a{
+  color: black;
+  background-color: white;
+}
+.menu a:hover{
+  color: white;
+ background-color: #363636 !important
+}
+
+.nav-pills .open>a  {
+  color: white ;
+  background-color: #363636 !important ;
+}
+
+.dropdown-menu>li>a, .dropdown-menu {
+  color: white !important ;
+  background-color: black !important;
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus{
+  text-indent: 15px !important;
+  background-image: none !important;
+  background-color: black !important;
+}
+#entete{
+  display: inline-flex;
+  padding-top: 10px;
+}
+
+/*Body*/
+.location{
+  margin-top: 50px;
+}
+.lePilates .faq {
+  text-align: justify;
+}
+
+.pictures{
+  margin-top: 40px;
+  max-width: 60%;
+}
+#carousel-example-generic{
+  margin-top: 20px;
+}
+.carousel-indicators{
+  bottom: 0 !important;
+  margin-bottom: 2px;
+  font-size: 5px;
+}
+.tarifs{
+  text-align: center;
+}
+.btn-default{
+    margin-right: 10px;
+}
+#presentation{
+  text-align: justify;
+  padding-top: 3%;
+  padding-bottom:3%;
+}
+/*Footer*/
+.contact{
+  cursor: pointer;
+}
+#contentFooter{
+  text-align: center;
+  font-size: smaller;
+  background-color: #F3F3FC;
+}
+
